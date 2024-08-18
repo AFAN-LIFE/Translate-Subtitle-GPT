@@ -1,0 +1,99 @@
+1
+00:00:17,866 --> 00:00:19,133
+okay the time is up
+
+2
+00:00:19,533 --> 00:00:22,866
+Welcome everyone to the AI plus industry meeting
+
+3
+00:00:23,033 --> 00:00:25,833
+hosted by the Yisichangtian team
+
+4
+00:00:25,833 --> 00:00:29,233
+I am your host tonight: AFAN. In our previous sessions
+
+5
+00:00:29,233 --> 00:00:32,600
+we've already had discussions with students from fields
+
+6
+00:00:32,600 --> 00:00:35,666
+such as Environmental Science, Metallurgy
+
+7
+00:00:35,666 --> 00:00:38,500
+Agriculture, Materials Science
+
+8
+00:00:38,500 --> 00:00:40,300
+Finance, 3D Printing
+
+9
+00:00:40,533 --> 00:00:42,933
+Integrated Circuits and Brain Science
+
+10
+00:00:43,300 --> 00:00:46,300
+We've gained a lot of industry related knowledge
+
+11
+00:00:46,300 --> 00:00:47,733
+for those interested
+
+12
+00:00:47,733 --> 00:00:51,133
+You can watch the replays on our bilibili account
+
+13
+00:00:51,633 --> 00:00:54,066
+Today's live stream will also be edited
+
+14
+00:00:54,066 --> 00:00:55,733
+and uploaded to bilibili
+
+15
+00:00:56,400 --> 00:00:59,300
+Today we are pleased to have invited Ali
+
+16
+00:00:59,400 --> 00:01:00,733
+a doctoral candidate
+
+17
+00:01:00,733 --> 00:01:03,700
+at Shenzhen Institutes of advanced technology
+
+18
+00:01:03,800 --> 00:01:05,800
+Chinese Academy of Sciences
+
+19
+00:01:05,800 --> 00:01:09,233
+to talk about his perspective on the application of AI
+
+20
+00:01:09,233 --> 00:01:10,800
+in the health care sector
+
+21
+00:01:11,433 --> 00:01:13,633
+Ali's researchs focus on microwave
+
+22
+00:01:13,633 --> 00:01:17,833
+imaging from breast cancer detection and localization
+
+23
+00:01:18,200 --> 00:01:22,133
+as well as the application of large language models in health care
+
+24
+00:01:22,800 --> 00:01:24,533
+during the presentation
+
+25
+00:01:24,533 --> 00:01:28,833
+you can ask questions and engage in discussion in the chat area

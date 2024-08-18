@@ -1,0 +1,100 @@
+1
+00:00:00,733 --> 00:00:03,900
+In the steel plate defect detection video released a few days ago,
+
+2
+00:00:04,033 --> 00:00:07,066
+the data we used was structured modeling data extracted from steel plate images after feature representation.
+
+3
+00:00:07,066 --> 00:00:10,566
+Some students may wonder,
+
+4
+00:00:11,233 --> 00:00:13,300
+when we learn these cases of defect detection,
+
+5
+00:00:13,433 --> 00:00:16,100
+
+
+6
+00:00:16,300 --> 00:00:20,400
+Title: Why Classical Machine Learning Methods are Still Effective for Modeling Despite the Popularity of Deep Learning in Object Detection
+
+7
+00:00:20,400 --> 00:00:22,133
+
+
+8
+00:00:22,933 --> 00:00:25,866
+Having just learned about the state-of-the-art deep learning techniques in object detection, it's remarkable that one can still utilize classical machine learning methods for modeling. Let's delve into this notion.
+
+9
+00:00:25,866 --> 00:00:26,966
+
+
+10
+00:00:27,333 --> 00:00:29,533
+Firstly, it's important to recognize that deep learning algorithms, particularly in the realm of object detection, offer remarkable accuracy and efficiency. They are able to process complex data and learn intricate patterns that are often missed by classical machine learning techniques. However, there are scenarios where classical machine learning methods can excel.
+
+11
+00:00:29,966 --> 00:00:33,066
+In many tasks of defect detection,
+
+12
+00:00:33,166 --> 00:00:37,666
+it might be possible to introduce classical machine learning methods
+
+13
+00:00:37,666 --> 00:00:39,666
+to improve recognition accuracy.
+
+14
+00:00:40,866 --> 00:00:43,366
+First, let me briefly introduce to novice viewers
+
+15
+00:00:43,366 --> 00:00:46,100
+the classic datasets and methods for defect detection.
+
+16
+00:00:46,700 --> 00:00:49,533
+The demand for defect detection is widespread, including in scenarios like the production of industrial steel plates we have previously introduced, manufacturing on factory assembly lines, and even in the medical field, where there is a need for image-based recognition of tumor lesions.
+
+17
+00:00:49,533 --> 00:00:53,066
+
+
+18
+00:00:53,166 --> 00:00:55,900
+
+
+19
+00:00:56,100 --> 00:00:58,200
+
+
+20
+00:00:58,200 --> 00:01:01,466
+
+
+21
+00:01:01,933 --> 00:01:05,333
+We are presenting a steel surface defect dataset released by Professor Song Kecheng from Northeastern University. This dataset collects six typical hot-rolled steel strip surface defects, namely, scale pressing-in (RS), patch (Pa), cracking (Cr), pitting (PS), inclusion (In), and scratch (Sc).
+
+22
+00:01:05,333 --> 00:01:08,566
+
+
+23
+00:01:08,900 --> 00:01:14,933
+
+
+24
+00:01:15,266 --> 00:01:17,733
+
+
+25
+00:01:17,733 --> 00:01:21,366
+
+
